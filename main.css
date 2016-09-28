@@ -27,7 +27,7 @@ h2 {
 }
 
 
-p {
+.hero p {
 	color: #ffffff;
 	font-size: 2em;
 }
@@ -36,6 +36,10 @@ p {
 	color: white;
 	font-size: 24px;
 	text-decoration: none;
+}
+p {
+	font-family: Cursive;
+	font-size: 24px;
 }
 
 #footer {
